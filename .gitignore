@@ -1,0 +1,19 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Browser files (large, not needed: the app uses Edge first)
+browser/
+
+# PyInstaller output
+build/
+dist/
+*.exe
+
+# Daily proof screenshots and test output
+proof/
+test_output.txt
+
+# Excel temporary lock files
+~$*
